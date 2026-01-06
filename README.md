@@ -1,7 +1,6 @@
 # Pastebin Services
 
-This document contains list of pastebin services organized by categories.The list contains only unencrypted pastebins. In other words, you can scrape some data from pastebins in this list.
-
+This document contains list of pastebin services organized by categories.
 You are welcome to join Telegram chat groups to talk about web scraping and data processing: [@grablab](https://t.me/grablab) (English), [@grablab_ru](https://t.me/grablab_ru) (Russian).
 ‎
 | URL | Aliases | Read Only | Is Down? |
