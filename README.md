@@ -14,6 +14,7 @@ You are welcome to join Telegram chat groups to talk about web scraping and data
 | http://paste.xinu.at |  | No | No |
 | http://pastie.org |  | No | No |
 | https://beanpaste.fun |  | No | No |
+| https://bin.bloerg.net/ |  | No | No |
 | https://bpa.st |  | No | No |
 | https://cl1p.net |  | No | No |
 | https://codebeautify.org |  | No | No |
@@ -32,6 +33,7 @@ You are welcome to join Telegram chat groups to talk about web scraping and data
 | https://gitlab.com/explore/snippets |  | No | No |
 | https://hastebin.com |  | No | No |
 | https://hastebin.dev |  | No | No |
+| https://hemmelig.app/ |  | No | No |
 | https://ideone.com |  | No | No |
 | https://invent.kde.org/explore/snippets |  | No | No |
 | https://ivpaste.com |  | No | No |
